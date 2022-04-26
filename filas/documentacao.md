@@ -118,3 +118,5 @@ console.log(`${resultado.vencedor} foi o ninja vencedor.`)
 <div align="center">
   <img src="../public/test-ninja.png" alt="Queue em konoha">
 </div>
+
+- [seguir para a leitura de Deques](/deques/documentacao.md)

@@ -97,3 +97,5 @@ class Pilha {
 	}
 }
 ```
+
+- [seguir para a leitura de Filas](/filas/documentacao.md)

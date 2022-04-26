@@ -12,11 +12,11 @@
 ## Conteúdos já disponíveis:
 
 - Pilhas
+- Filas e Deques
 
 ## Conteúdos a serem disponibilizados:
 
 - Array
-- Filas e Deques
 - Listas ligadas
 - Conjuntos
 - Dicionários e Hashes
